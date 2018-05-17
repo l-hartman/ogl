@@ -1,9 +1,9 @@
 # ogl
 
-messing around with Modern OpenGL
+messing around with Modern OpenGL using GLFW as an API for windows and stuff
 
 
-## To Install and Make glfw3
+## To Install and Make GLFW3
 
 ``` 
 version="3.2.1" && \
