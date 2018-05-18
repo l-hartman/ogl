@@ -2,12 +2,6 @@
 
 Boilerplate code for Modern OpenGL using GLFW as an API for window frames and glad to as a library extension loader.
 
-- Application.cpp renders a colorful rotating triangle
-
-![alt text][logo]
-
-[logo]: https://github.com/l-hartman/ogl/res/triangle.gif "example output"
-
 ## Setup GLFW3
 
 ``` 
@@ -27,5 +21,9 @@ sudo make install
   ./Application.exe
 
 ```
+
+- Application.cpp renders a colorful rotating triangle
+
+![Alt Text](https://github.com/l-hartman/ogl/blob/master/res/triangle.gif "example output")
 
 Will soon use cmake to generate makefile.
