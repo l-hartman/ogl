@@ -1,6 +1,8 @@
-# ogl
+# ogl 
 
 Boilerplate code for Modern OpenGL using GLFW as an API for window frames and glad to as a library extension loader.
+
+Good starting point for creating OpenGL shaders and working with graphics stuff in Linux.
 
 ## Setup GLFW3
 
