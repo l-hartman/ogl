@@ -1,6 +1,6 @@
 # ogl 
 
-Boilerplate code for Modern OpenGL using GLFW as an API for window frames and glad to as a library extension loader.
+Boilerplate code for Modern OpenGL using GLFW as an API for window frames and glad as a library extension loader.
 
 ## Setup GLFW3
 
